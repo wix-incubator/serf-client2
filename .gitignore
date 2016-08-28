@@ -1,0 +1,7 @@
+/.idea/
+/var/
+*.pyc
+*.mo
+/serf_client2.egg-info/
+/build/
+/dist/
